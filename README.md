@@ -125,6 +125,7 @@ Open a Pull Request for changes:
 
 | Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests. |
 | --- |
+EDIT Jaez
 
 With proper access you will be able to merge your own branch. In this instance, a project maintainer is required to do the merge. 
 
